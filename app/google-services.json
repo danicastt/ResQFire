@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "659420788803",
+    "project_id": "resqfire-fe8b4",
+    "storage_bucket": "resqfire-fe8b4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659420788803:android:fb47f4487c16a7a90c7cf6",
+        "android_client_info": {
+          "package_name": "com.resqfire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-lT7ejrqf822PdLST3R9z1iwOWa5EsT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

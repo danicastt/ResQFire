@@ -1,0 +1,72 @@
+com.resqfire.app-play-services-basement-18.4.0-0 C:\Users\emili\.gradle\caches\8.9\transforms\023f4c4e15e1040ffff10e2c482af799\transformed\play-services-basement-18.4.0\res
+com.resqfire.app-core-1.15.0-1 C:\Users\emili\.gradle\caches\8.9\transforms\02979dbd70631e467f565a154c164002\transformed\core-1.15.0\res
+com.resqfire.app-lifecycle-viewmodel-ktx-2.8.7-2 C:\Users\emili\.gradle\caches\8.9\transforms\03a8edb977cc7c2c6d06e47c39562a23\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.resqfire.app-play-services-auth-20.7.0-3 C:\Users\emili\.gradle\caches\8.9\transforms\0ee69c72c5aec0a035c9ba4495f0c62e\transformed\play-services-auth-20.7.0\res
+com.resqfire.app-material-release-4 C:\Users\emili\.gradle\caches\8.9\transforms\1444e2ec5420ca760e41720b543ba974\transformed\material-release\res
+com.resqfire.app-animation-core-release-5 C:\Users\emili\.gradle\caches\8.9\transforms\172b2e7cbac1d975adc5268e9d3e0d58\transformed\animation-core-release\res
+com.resqfire.app-navigation-common-2.8.4-6 C:\Users\emili\.gradle\caches\8.9\transforms\1c84e0e9a7f82409b1b32547db7a476f\transformed\navigation-common-2.8.4\res
+com.resqfire.app-material3-release-7 C:\Users\emili\.gradle\caches\8.9\transforms\2010a04507dae8c05765bf073a974971\transformed\material3-release\res
+com.resqfire.app-lifecycle-runtime-ktx-release-8 C:\Users\emili\.gradle\caches\8.9\transforms\262c1f6a731d59371a5a02343e6082d2\transformed\lifecycle-runtime-ktx-release\res
+com.resqfire.app-ui-geometry-release-9 C:\Users\emili\.gradle\caches\8.9\transforms\2842e628332b10abb51438085e87d131\transformed\ui-geometry-release\res
+com.resqfire.app-graphics-path-1.0.1-10 C:\Users\emili\.gradle\caches\8.9\transforms\2bc5b53c1cea4bba6cc05f0631c82ff4\transformed\graphics-path-1.0.1\res
+com.resqfire.app-lifecycle-livedata-2.8.7-11 C:\Users\emili\.gradle\caches\8.9\transforms\2f85b86d1c41931e120dd700241a50c3\transformed\lifecycle-livedata-2.8.7\res
+com.resqfire.app-emoji2-1.3.0-12 C:\Users\emili\.gradle\caches\8.9\transforms\34bf2a758fdefa065ea924ccd708b091\transformed\emoji2-1.3.0\res
+com.resqfire.app-tracing-1.2.0-13 C:\Users\emili\.gradle\caches\8.9\transforms\396e52857e065b4d4924b8150d7f0ce4\transformed\tracing-1.2.0\res
+com.resqfire.app-lifecycle-process-2.8.7-14 C:\Users\emili\.gradle\caches\8.9\transforms\3b7634e7d6ec530a6019cc7a50e300aa\transformed\lifecycle-process-2.8.7\res
+com.resqfire.app-navigation-common-ktx-2.8.4-15 C:\Users\emili\.gradle\caches\8.9\transforms\3baae27ae9ed03bcfce7bd7f3bcfe435\transformed\navigation-common-ktx-2.8.4\res
+com.resqfire.app-foundation-release-16 C:\Users\emili\.gradle\caches\8.9\transforms\3c67d94fe857a5d20127b062c72eb795\transformed\foundation-release\res
+com.resqfire.app-firebase-messaging-24.1.0-17 C:\Users\emili\.gradle\caches\8.9\transforms\3dc5e08fbabef968e81b4f1f49dda573\transformed\firebase-messaging-24.1.0\res
+com.resqfire.app-play-services-base-18.5.0-18 C:\Users\emili\.gradle\caches\8.9\transforms\3e58b97ff82e242161a60ef39b36f258\transformed\play-services-base-18.5.0\res
+com.resqfire.app-ui-release-19 C:\Users\emili\.gradle\caches\8.9\transforms\3eabd4d5ee8fb46e115df3c6bf174a8d\transformed\ui-release\res
+com.resqfire.app-navigation-compose-2.8.4-20 C:\Users\emili\.gradle\caches\8.9\transforms\5429c3496cef0f794172546bb841b681\transformed\navigation-compose-2.8.4\res
+com.resqfire.app-runtime-release-21 C:\Users\emili\.gradle\caches\8.9\transforms\5bf92a65fbca3c0dfa759d4896dc4fb7\transformed\runtime-release\res
+com.resqfire.app-credentials-play-services-auth-1.2.0-rc01-22 C:\Users\emili\.gradle\caches\8.9\transforms\5e2b61ad410ceaa71a089c39c6e7d0b0\transformed\credentials-play-services-auth-1.2.0-rc01\res
+com.resqfire.app-savedstate-ktx-1.2.1-23 C:\Users\emili\.gradle\caches\8.9\transforms\60553fd153bd5e26e8b957d0c9954b1b\transformed\savedstate-ktx-1.2.1\res
+com.resqfire.app-activity-compose-1.9.3-24 C:\Users\emili\.gradle\caches\8.9\transforms\6a12d0a39990ab1df0c6842d47b4491d\transformed\activity-compose-1.9.3\res
+com.resqfire.app-core-common-2.0.3-25 C:\Users\emili\.gradle\caches\8.9\transforms\6a1bf6b304e200511bf880f792f6f19e\transformed\core-common-2.0.3\res
+com.resqfire.app-credentials-1.2.0-rc01-26 C:\Users\emili\.gradle\caches\8.9\transforms\6dc923a770c33ab67e53833a4b944609\transformed\credentials-1.2.0-rc01\res
+com.resqfire.app-appcompat-resources-1.6.1-27 C:\Users\emili\.gradle\caches\8.9\transforms\6f9f87e1cdd55186e3f672850ab67cbd\transformed\appcompat-resources-1.6.1\res
+com.resqfire.app-navigation-runtime-ktx-2.8.4-28 C:\Users\emili\.gradle\caches\8.9\transforms\70ee1601c02a7b96f1d80117be806b93\transformed\navigation-runtime-ktx-2.8.4\res
+com.resqfire.app-savedstate-1.2.1-29 C:\Users\emili\.gradle\caches\8.9\transforms\71ee0f89ad1a2ddfadec8b18d088a2a5\transformed\savedstate-1.2.1\res
+com.resqfire.app-customview-poolingcontainer-1.0.0-30 C:\Users\emili\.gradle\caches\8.9\transforms\730e755e89abee178ee26e922bff1afd\transformed\customview-poolingcontainer-1.0.0\res
+com.resqfire.app-firebase-common-21.0.0-31 C:\Users\emili\.gradle\caches\8.9\transforms\7951aa82b613038558a84a6b8eb95879\transformed\firebase-common-21.0.0\res
+com.resqfire.app-animation-release-32 C:\Users\emili\.gradle\caches\8.9\transforms\7b82c4fbb3f3478af51dd59fbe78e993\transformed\animation-release\res
+com.resqfire.app-core-runtime-2.2.0-33 C:\Users\emili\.gradle\caches\8.9\transforms\7c683dc1cadc3155a5cd5926bdcb7a0b\transformed\core-runtime-2.2.0\res
+com.resqfire.app-lifecycle-livedata-core-2.8.7-34 C:\Users\emili\.gradle\caches\8.9\transforms\7f433e37198278fcb564338d82add785\transformed\lifecycle-livedata-core-2.8.7\res
+com.resqfire.app-browser-1.4.0-35 C:\Users\emili\.gradle\caches\8.9\transforms\802fa1d3247ffd015dfe4768bede707c\transformed\browser-1.4.0\res
+com.resqfire.app-ui-graphics-release-36 C:\Users\emili\.gradle\caches\8.9\transforms\88b22be8a98b7f81f5388693d3bc174e\transformed\ui-graphics-release\res
+com.resqfire.app-ui-util-release-37 C:\Users\emili\.gradle\caches\8.9\transforms\9709077bc401fa3d5e2f1abf6477b1f5\transformed\ui-util-release\res
+com.resqfire.app-ui-tooling-preview-release-38 C:\Users\emili\.gradle\caches\8.9\transforms\994156d956a2070b373520d289cea009\transformed\ui-tooling-preview-release\res
+com.resqfire.app-profileinstaller-1.3.1-39 C:\Users\emili\.gradle\caches\8.9\transforms\a235af2f9d8931addd22c5bd0dd3f74f\transformed\profileinstaller-1.3.1\res
+com.resqfire.app-lifecycle-runtime-compose-release-40 C:\Users\emili\.gradle\caches\8.9\transforms\a3c171c46faaf07f1764dec791020a82\transformed\lifecycle-runtime-compose-release\res
+com.resqfire.app-foundation-layout-release-41 C:\Users\emili\.gradle\caches\8.9\transforms\a57d0e5a43ff8c99841f5536b707a430\transformed\foundation-layout-release\res
+com.resqfire.app-material-icons-extended-release-42 C:\Users\emili\.gradle\caches\8.9\transforms\a5b17af113d63d4cdb6423ceed514eee\transformed\material-icons-extended-release\res
+com.resqfire.app-runtime-saveable-release-43 C:\Users\emili\.gradle\caches\8.9\transforms\a744fa4681beed52d1ab46924ea3c4df\transformed\runtime-saveable-release\res
+com.resqfire.app-lifecycle-runtime-release-44 C:\Users\emili\.gradle\caches\8.9\transforms\a75456d2d517972fdf73fe02ec8b49f3\transformed\lifecycle-runtime-release\res
+com.resqfire.app-activity-1.9.3-45 C:\Users\emili\.gradle\caches\8.9\transforms\adacf5ea9c764eb4f092f8032d3fdbcb\transformed\activity-1.9.3\res
+com.resqfire.app-material-icons-core-release-46 C:\Users\emili\.gradle\caches\8.9\transforms\b3eebb34c1fc978e042f493cf4e3c742\transformed\material-icons-core-release\res
+com.resqfire.app-maps-compose-6.2.1-47 C:\Users\emili\.gradle\caches\8.9\transforms\b499469b1759b73192ca6701c350e050\transformed\maps-compose-6.2.1\res
+com.resqfire.app-play-services-maps-19.0.0-48 C:\Users\emili\.gradle\caches\8.9\transforms\b9945fd6780f8b94a08ae64e1002a568\transformed\play-services-maps-19.0.0\res
+com.resqfire.app-startup-runtime-1.1.1-49 C:\Users\emili\.gradle\caches\8.9\transforms\be589fc23031b11287492a4f1f9622ec\transformed\startup-runtime-1.1.1\res
+com.resqfire.app-ui-text-release-50 C:\Users\emili\.gradle\caches\8.9\transforms\c065ac97f2fc802952c26bdcac474611\transformed\ui-text-release\res
+com.resqfire.app-coil-base-2.7.0-51 C:\Users\emili\.gradle\caches\8.9\transforms\ca85abe54a4215fc7b66889c32b654d8\transformed\coil-base-2.7.0\res
+com.resqfire.app-ui-tooling-data-release-52 C:\Users\emili\.gradle\caches\8.9\transforms\d5233d03509a122d7c4627fd5f2aacd5\transformed\ui-tooling-data-release\res
+com.resqfire.app-navigation-runtime-2.8.4-53 C:\Users\emili\.gradle\caches\8.9\transforms\d83f9dfe69ce41beea67e230ed9eec16\transformed\navigation-runtime-2.8.4\res
+com.resqfire.app-lifecycle-viewmodel-compose-release-54 C:\Users\emili\.gradle\caches\8.9\transforms\d8d14854452de082ba9acb6a771db31b\transformed\lifecycle-viewmodel-compose-release\res
+com.resqfire.app-annotation-experimental-1.4.1-55 C:\Users\emili\.gradle\caches\8.9\transforms\dc0a8d8c00528148e34e460248590559\transformed\annotation-experimental-1.4.1\res
+com.resqfire.app-activity-ktx-1.9.3-56 C:\Users\emili\.gradle\caches\8.9\transforms\e03e604d49264ef7dbb2ce43d648712a\transformed\activity-ktx-1.9.3\res
+com.resqfire.app-ui-unit-release-57 C:\Users\emili\.gradle\caches\8.9\transforms\e0474cf2d865ce2f27d80436acb9e340\transformed\ui-unit-release\res
+com.resqfire.app-lifecycle-viewmodel-release-58 C:\Users\emili\.gradle\caches\8.9\transforms\ef8d9ebc85e7a3c762fc7ca73a2c6a53\transformed\lifecycle-viewmodel-release\res
+com.resqfire.app-lifecycle-livedata-core-ktx-2.8.7-59 C:\Users\emili\.gradle\caches\8.9\transforms\f044da60af0c1d37b363643b39b4a0c9\transformed\lifecycle-livedata-core-ktx-2.8.7\res
+com.resqfire.app-core-ktx-1.15.0-60 C:\Users\emili\.gradle\caches\8.9\transforms\f144fe6213b4bc8bfc2b095250ad2c07\transformed\core-ktx-1.15.0\res
+com.resqfire.app-ui-tooling-release-61 C:\Users\emili\.gradle\caches\8.9\transforms\f593233afa197ed539bfa18f6655ea72\transformed\ui-tooling-release\res
+com.resqfire.app-lifecycle-viewmodel-savedstate-2.8.7-62 C:\Users\emili\.gradle\caches\8.9\transforms\f5cbfea29e0fdfbefe286770df309bf2\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.resqfire.app-material-ripple-release-63 C:\Users\emili\.gradle\caches\8.9\transforms\f9566f7922ea6d45e98f5719ccb4ed2e\transformed\material-ripple-release\res
+com.resqfire.app-pngs-64 C:\Users\emili\Downloads\ResQFire_FIXED (1)\ResQFire\app\build\generated\res\pngs\debug
+com.resqfire.app-res-65 C:\Users\emili\Downloads\ResQFire_FIXED (1)\ResQFire\app\build\generated\res\processDebugGoogleServices
+com.resqfire.app-resValues-66 C:\Users\emili\Downloads\ResQFire_FIXED (1)\ResQFire\app\build\generated\res\resValues\debug
+com.resqfire.app-packageDebugResources-67 C:\Users\emili\Downloads\ResQFire_FIXED (1)\ResQFire\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.resqfire.app-packageDebugResources-68 C:\Users\emili\Downloads\ResQFire_FIXED (1)\ResQFire\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.resqfire.app-debug-69 C:\Users\emili\Downloads\ResQFire_FIXED (1)\ResQFire\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.resqfire.app-debug-70 C:\Users\emili\Downloads\ResQFire_FIXED (1)\ResQFire\app\src\debug\res
+com.resqfire.app-main-71 C:\Users\emili\Downloads\ResQFire_FIXED (1)\ResQFire\app\src\main\res
